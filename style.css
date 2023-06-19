@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+tittle{
+    content: none;
+
+}
+
+
+
+nav > a{
+    text-decoration: none;
+}
+
+.home{
+    font-size: 2em;
+    
+}
+
+.menu{
+    text-align: right;
+    margin: 20px;
+
+}
